@@ -171,17 +171,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #2980b9!important
+  background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png"), linear-gradient(#4DD0E1, #0D47A1);
 }
 
 .text-primary {
-  color: #2980b9!important
+  color: #03A9F4!important
 }
 
 a {
-  color: #2980b9
+  color: #03A9F4
 }
 
 a:active, a:focus, a:hover {
-  color: #2ecc71
+  color: #03A9F4
 }
