@@ -107,7 +107,9 @@ p.lead {
         -ms-flex-direction: column;
         flex-direction: column;
         width: 17rem;
-        height: 100vh
+        height: 100vh;
+        box-shadow: 2px 0px #cccccc;
+
     }
     #sideNav .navbar-brand {
         display: -webkit-box;
@@ -176,7 +178,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-    background-image: linear-gradient(#0D47A1, #03A9F4);
+    /* background-image: linear-gradient(#03A9F4, #0D47A1); */
+    background-image: linear-gradient(#2196F3, #2196F3, #311B92);
 }
 
 .text-primary {
